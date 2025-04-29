@@ -1,7 +1,7 @@
 # API da PMDC - Documentação
 
 <p align="center">
-  <img src="https://www.duquedecaxias.rj.gov.br/wp-content/uploads/2022/03/logo-Duque-de-Caxias-horizontal-03-1024x168.jpg" width="400" alt="Prefeitura Municipal de Duque de Caxias">
+  <img src="https://duquedecaxias.rj.gov.br/images/dc-logo.png" width="400" alt="Prefeitura Municipal de Duque de Caxias">
 </p>
 
 ## Índice
